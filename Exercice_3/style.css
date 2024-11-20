@@ -1,21 +1,30 @@
-.color{
+.color {
   float: left;
   width: 20px;
   height: 20px;
-  margin : 5px;
+  margin: 5px;
 }
-.green{
+
+.green {
   background-color: green;
-  color: green
-
-}
-.red{
-    background-color: red;
-    color: red
-}
-.blue{
-    background-color: blue;
-    color: blue;
 }
 
+.red {
+  background-color: red;
+}
 
+.blue {
+  background-color: blue;
+}
+
+.text-green {
+  color: green;
+}
+
+.text-red {
+  color: red;
+}
+
+.text-blue {
+  color: blue;
+}

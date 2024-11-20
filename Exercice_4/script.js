@@ -13,4 +13,4 @@ function handleVerifyPassword(){
         password.style.border = "3px solid red"
         confirmPassword.style.border = "3px solid red"
     }
-};
+}
